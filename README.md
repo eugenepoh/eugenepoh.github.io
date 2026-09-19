@@ -19,3 +19,7 @@ The portrait is served from the existing public UQ profile. Content is based on 
 ## Custom domain
 
 Only change the domain after reviewing the new site. Set `www.eugenepoh.com` in GitHub Pages custom-domain settings and configure the domain's DNS according to GitHub's documentation: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site. Keep the existing domain configuration until ready to switch.
+
+## Publication list
+
+Updated 19 September 2026 from https://scholar.google.com/citations?user=ecUaIG4AAAAJ&hl=en. All 14 visible Scholar entries are included, ordered newest first, with links to their individual records. Separate records and preprint versions are deliberately preserved. The list is a static snapshot; future additions require an edit. Author spellings follow Scholar.
