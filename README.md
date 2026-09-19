@@ -24,4 +24,4 @@ Only change the domain after reviewing the new site. Set `www.eugenepoh.com` in 
 
 Journal papers and preprints are grouped separately, newest first in each section, without displayed category counts. Conference contributions and the doctoral thesis are excluded.
 
-Sources: https://scholar.google.com/citations?user=ecUaIG4AAAAJ&hl=en (checked 19 September 2026). Separate Scholar records and preprint versions are retained, including the alternate three-author entry linking to the same bioRxiv manuscript. This is a static snapshot; future additions require an edit.
+Sources: https://scholar.google.com/citations?user=ecUaIG4AAAAJ&hl=en (checked 19 September 2026). The two retained preprint records are listed separately. The incorrect three-author Top-down effects entry is excluded. This is a static snapshot; future additions require an edit.
