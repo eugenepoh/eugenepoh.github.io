@@ -22,4 +22,4 @@ Only change the domain after reviewing the new site. Set `www.eugenepoh.com` in 
 
 ## Publication list
 
-Updated 19 September 2026 from https://scholar.google.com/citations?user=ecUaIG4AAAAJ&hl=en. All 14 visible Scholar entries are included, ordered newest first, with links to their individual records. Separate records and preprint versions are deliberately preserved. The list is a static snapshot; future additions require an edit. Author spellings follow Scholar.
+Updated 19 September 2026 from https://scholar.google.com/citations?user=ecUaIG4AAAAJ&hl=en. 13 Scholar entries are included (the doctoral thesis is excluded), ordered newest first, with links to their individual records. Separate records and preprint versions are deliberately preserved. The list is a static snapshot; future additions require an edit. Author spellings follow Scholar.
